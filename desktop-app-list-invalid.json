@@ -1,0 +1,677 @@
+[
+    {
+        "app_identifier": "Trello",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Slack",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Battle.net",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Call of Duty",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Ubuntu",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Clipchamp",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Messenger",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "FAHClient",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Google.CloudSDK Unknown",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "LastPass for Windows Desktop",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Mega.MEGASync Unknown",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Azure Compute Emulator - v2.9.7",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Edge Update",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft.EdgeWebView2Runtime 108.0.1462.54",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Cortana",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "News",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "MSN Weather",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "App Installer",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Xbox",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Get Help",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Tips",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "HEIF Image Extensions",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "HEVC Video Extensions from Device Manufacturer",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "\ud55c\uad6d\uc5b4 \ub85c\uceec \uacbd\ud5d8 \ud329",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Paint 3D",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows Operator messages",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "3D Viewer",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Edge",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Office",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Solitaire & Casual Games",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Sticky Notes",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Mixed Reality Portal",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "OneNote for Windows 10",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Mobile Plans",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "OneDrive",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Paint",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft People",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Power Automate",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Print 3D",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Raw Image Extension",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Snipping Tool",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows Security",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Skype",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Store Experience Host",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft To Do",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "VP9 Video Extensions",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Web Media Extensions",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Webp Image Extensions",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Photos",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows Clock",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows Calculator",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows Camera",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Feedback Hub",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows Maps",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows Notepad",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows Scan",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows Sound Recorder",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Store",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft.WindowsTerminal 1.15.3466.0",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows Package Manager Source (winget)",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Xbox TCUI",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Xbox Console Companion",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Xbox Game Bar Plugin",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Xbox Game Bar",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Xbox Identity Provider",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Xbox Game Speech Window",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Phone Link",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows Media Player",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Movies & TV",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Family",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Quick Assist",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Teams",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows Web Experience Pack",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Mozilla Maintenance Service",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "NVIDIA Control Panel",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft.Office 16.0.15831.20208",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft.OneDrive 22.238.1114.0002",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Reader Notification Client",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "League of Legends",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "VALORANT",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Riot Vanguard",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Rockstar Games Launcher",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Rockstar Games Social Club",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Spotify Music",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "The Jackbox Party Pack 6",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Cyberpunk 2077",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "PlateUp!",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Transistor",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Left 4 Dead 2",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "TaleSpire",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Phasmophobia",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Halo",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "WinDirStat.WinDirStat Unknown",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Zoom.Zoom > 5.12.10137",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "PenguinLabs.Cacher 2.45.3",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Mail and Calendar",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "PostgreSQL.pgAdmin 5.4",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "pgAgent_PG14 4.2.2",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft .NET SDK 6.0.401 (x64) from Visual Studio",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft.WebDeploy 10.0.5923",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Python Launcher",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft.WindowsInstallationAssistant 1.4.19041.2063",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Epic Online Services",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "EpicGames.EpicGamesLauncher 1.1.267.0",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows SDK AddOn",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Amazon.AWSCLI 2.4.7.0",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft SQL Server 2019 LocalDB",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Azure PowerShell - April 2018",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "ElectronicArts.EADesktop 12.62.0.5319",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Wondershare Helper Compact 2.5.2",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "IIS 10.0 Express",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "AdoptOpenJDK JDK with Hotspot 8.0.242.08 (x64)",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Visual Studio Installer",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "REDlauncher",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Python 3.11.0 (64-bit)",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft.WindowsPCHealthCheck 3.7.2204.15001",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Update Health Tools",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Visual C++ 2005 Redistributable",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft ODBC Driver 17 for SQL Server",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Windows Subsystem for Linux Update",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Azure Authoring Tools - v2.9.7",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft SQL Server 2016 LocalDB",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Adobe Acrobat (64-bit)",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Wally version 3.0.1",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "NVIDIA Graphics Driver 527.56",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Nvidia.GeForceExperience 3.26.0.160",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "NVIDIA FrameView SDK 1.3.8107.31782123",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "NVIDIA HD Audio Driver 1.3.39.16",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "NVIDIA USBC Driver 1.50.831.832",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Azure Libraries for .NET \u2013 v2.9",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Mojang.MinecraftLauncher 1.0.0.0",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft.UpdateAssistant 1.4.9200.23258",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Go Programming Language amd64 go1.15.8",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    },
+    {
+        "app_identifier": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022",
+        "version": null,
+        "reason_for_failure": "missing_package"
+    }
+]
